@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: kobekapital/tetrisv1:5
+        image: kobekapital/tetrisv2:5
         ports:
         - containerPort: 3000
 
