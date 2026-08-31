@@ -15,7 +15,11 @@ spec:
     spec:
       containers:
       - name: tetris
+<<<<<<< HEAD
         image: ikericookies/tetrisv1:5
+=======
+        image: kobekaptial/tetrisv1:5
+>>>>>>> a7b07dc (Update image repository to kobekapital)
         ports:
         - containerPort: 3000
 ---
